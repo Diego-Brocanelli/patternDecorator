@@ -8,7 +8,7 @@ namespace Sorvete;
  * @package Sorvete
  * @author Diego Brocanelli <diegod2@msn.com>
  */
-abstract class Sorvete
+abstract class Sorvete implements SorveteInterface
 {
 	private $nome;
 

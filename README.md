@@ -1,5 +1,10 @@
 # Estudos do Design Pattern Decorator com PHP
 
+### Gerando o autoload do composer
+```
+composer install
+```
+
 Para realizar o teste com o servidor embutido do PHP.
 ```
 php -S localhost:8080

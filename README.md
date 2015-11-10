@@ -1,4 +1,4 @@
-# Estudos do design patter decorator com PHP
+# Estudos do design pattern decorator com PHP
 
 Para realizar o teste com o servidor embutido do PHP.
 ```

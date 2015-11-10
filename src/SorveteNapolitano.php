@@ -10,6 +10,9 @@ namespace Sorvete;
  */
 class SorveteNapolitano extends Sorvete
 {
+	/**
+	 * Configura o nome do sorvete
+	 */
 	public function __construct()
 	{
 		$this->setNome('Sorvete Napolitano');

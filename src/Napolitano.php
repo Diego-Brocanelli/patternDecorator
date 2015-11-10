@@ -30,8 +30,8 @@ class Napolitano
      */
     public function retornaInformacoes(Sorvete $sorvete) 
     {
-        echo $sorvete->getNome() . ' - '
-           . $sorvete->getQuantidadeBolas() . ' preco : '
-           . $sorvete->getQuantidadePreco() . '<br />';
+        echo $sorvete->getNome() . '<br>'
+           . '> Quantidade: ' . $sorvete->getQuantidadeBolas() . '<br/>'
+           . '> R$ ' . $sorvete->getQuantidadePreco() . '<br />';
     }
 }

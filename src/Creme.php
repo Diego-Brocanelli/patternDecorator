@@ -3,11 +3,11 @@
 namespace Sorvete;
 
 /**
-* Classe para incremento de creme ao sorvete.
-*
-* @package Sorvete
-* @author Diego Brocanelli <diegod2@msn.com>
-*/
+ * Classe para incremento de creme ao sorvete.
+ *
+ * @package Sorvete
+ * @author Diego Brocanelli <diegod2@msn.com>
+ */
 class Creme extends SorveteSabor
 {
 	/**
